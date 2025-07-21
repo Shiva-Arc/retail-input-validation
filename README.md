@@ -1,4 +1,4 @@
-# 🧪 Retail Input Validation Project
+# 🧪 Retail Input and Employee Validation Project
 
 This beginner-friendly project demonstrates how to build a lightweight data validation pipeline using **Python, SQL, and SQLite**.
 
@@ -6,6 +6,8 @@ The goal is to simulate how raw retail or transactional data can be checked for:
 - Missing values
 - Duplicate records
 - Price outliers
+
+And to demonstrate how we can manage employee data
 
 ---
 
